@@ -1,2 +1,2 @@
-FROM  k8s.gcr.io/heapster-influxdb-amd64:v1.3.3
+FROM  k8s.gcr.io/heapster-grafana-amd64:v4.4.3
 MAINTAINER zrz123456
